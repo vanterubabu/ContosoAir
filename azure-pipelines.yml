@@ -1,5 +1,5 @@
 pool:
-  vmImage: ubuntu-16.04_Ramesh
+  vmImage: ubuntu-16.04_Ramesh_vanteru
 trigger:
   - master
 steps:
