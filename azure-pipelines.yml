@@ -1,6 +1,6 @@
 
 pool:
-  vmImage: ubuntu-16.04l-RameshTestrelease
+  vmImage: ubuntu-16.04l-RameshTestreleasebye
 trigger:
   - master
 steps:
