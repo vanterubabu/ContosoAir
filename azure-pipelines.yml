@@ -27,7 +27,7 @@ steps:
       rootFolderOrFile: $(Build.SourcesDirectory)
       includeRootFolder: false
   - task: CopyFiles@2
-    displayName: 'Copy ARM templatesRamesh'
+    displayName: 'Copy ARM templatesRameshVineet'
     inputs:
       SourceFolder: deployment
       Contents: '*.json'
